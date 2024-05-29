@@ -1,0 +1,93 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-mneoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-multi---primary.py
+inputModule4:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-lymph---primary.py
+inputModule5:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-unspecified---primary.py
+inputModule6:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-pleura---primary.py
+inputModule7:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-cervix---primary.py
+inputModule8:
+  class: File
+  path: python/small-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-ascite---primary.py
+inputModule10:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-carcinoma---primary.py
+inputModule11:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-disseminated---primary.py
+inputModule12:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-deposits---primary.py
+inputModule14:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-metastasis---primary.py
+inputModule15:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-breast---primary.py
+inputModule16:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-vulva---primary.py
+inputModule17:
+  class: File
+  path: python/large-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-gland---primary.py
+inputModule19:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-malig---primary.py
+inputModule20:
+  class: File
+  path: python/secondary-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule21:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-brain---primary.py
+inputModule22:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-system---primary.py
+inputModule23:
+  class: File
+  path: python/intrapelvic-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-axilla---primary.py
+inputModule25:
+  class: File
+  path: python/cerebral-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/nervous-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule27:
+  class: File
+  path: python/upper-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-liver---primary.py
+inputModule29:
+  class: File
+  path: python/metastatic-cancer-elixhauser-primary-care-bladder---primary.py
+inputModule30:
+  class: File
+  path: python/mediastinal-metastatic-cancer-elixhauser-primary-care---primary.py
+inputModule31:
+  class: File
+  path: python/output-cases.py
